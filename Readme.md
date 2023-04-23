@@ -14,5 +14,5 @@ gcc -o MiniLisp y.tab.o lex.yy.o -ll
 # to execute the file
 type these in terminal
 ```
-./MiniLisp < {File you want to input}
+./MiniLisp < FILE_NAME
 ```
